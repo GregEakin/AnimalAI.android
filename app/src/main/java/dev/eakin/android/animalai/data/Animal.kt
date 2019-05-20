@@ -15,7 +15,7 @@ import androidx.room.*
     indices = [
         Index(
             value = ["parentId", "answer"],
-            name = "parentKey2",
+            name = "animalKey",
             unique = true
         ),
         Index(
