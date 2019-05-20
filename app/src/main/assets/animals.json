@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "fish",
+    "parentId" : 1,
+    "answer" : true
+  },
+  {
+    "id": 2,
+    "name": "bird",
+    "parentId" : 1,
+    "answer" : false
+  }
+]
