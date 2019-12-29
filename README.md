@@ -1,4 +1,4 @@
-# Animal AI
+# Animal AI for Android
 This is a [self-learning program](https://en.wikipedia.org/wiki/Decision_tree_learning), that identifies animals by asking questions.
 Originally developed from:
 * [Creative Computing, Morristown, New Jersey](https://en.wikipedia.org/wiki/Creative_Computing_(magazine))
